@@ -1,0 +1,1 @@
+recursive-include  pylib_test *.css *.js *.jpg *.gif *.png *.html *.md
